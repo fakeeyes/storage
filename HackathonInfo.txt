@@ -203,3 +203,6 @@ observer8,0906,100,Unknown
 observer9,0906,100,Unknown
 observer10,0906,100,Unknown
 김도영,1234,34,Unknown
+Moderator,1234,34,Unknown
+Presenter,1234,34,Unknown
+Ghost,1234,34,Unknown
