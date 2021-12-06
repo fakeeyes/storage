@@ -206,4 +206,13 @@ observer10,0906,100,Unknown
 Moderator,1234,34,Unknown
 인터넷진흥원장,1234,34,Unknown
 농협은행장,1234,34,Unknown
-Ghost,1234,34,Unknown
+Ghost1,1234,34,Unknown
+Ghost2,1234,34,Unknown
+Ghost3,1234,34,Unknown
+Ghost4,1234,34,Unknown
+Ghost5,1234,34,Unknown
+Ghost6,1234,34,Unknown
+Ghost7,1234,34,Unknown
+Ghost8,1234,34,Unknown
+Ghost9,1234,34,Unknown
+Ghost10,1234,34,Unknown
